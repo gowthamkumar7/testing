@@ -1,0 +1,10 @@
+<resources>
+  <string name="app_name">నివేదన</string>
+  <string name="select_your_language">Please select your language</string>
+  <string name="telugu">తెలుగు</string>
+  <string name="hindi">Hindi</string>
+  <string name="english">English</string>
+  <string name="enter_your_mobile_number">మీ మొబైల్ నంబర్ను నమోదు చేయండి</string>
+  <string name="send_otp">Send OTP</string>
+  <string name="not_valid_number_error">Please enter valid mobile number</string>
+</resources>

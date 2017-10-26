@@ -1,0 +1,20 @@
+<resources>
+  <string name="app_name">Nivedhana</string>
+
+  <string name="select_your_language">Please select your language</string>
+
+  <string name="telugu">Telugu</string>
+  <string name="hindi">Hindi</string>
+  <string name="english">English</string>
+
+  <!--Login Screen-->
+  <string name="enter_your_mobile_number">Please enter your mobile number</string>
+  <string name="country_code">+91</string>
+  <string name="send_otp">Send OTP</string>
+
+  <!--OTP Reading Screen-->
+  <string name="not_valid_number_error">Please enter valid mobile number</string>
+  <string name="close_otp_reading_screen">close otp reading screen</string>
+  <string name="header_enter_otp">Enter OTP</string>
+  <string name="text_phone_number">9875461243</string>
+</resources>
